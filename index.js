@@ -6,6 +6,7 @@ Challenge 2: sayfa aktif iken(herhangi bir yerine mouse ile tıklayınca):
 - "Esc" tuşuna basınca classı sıfırlasın
 */
 
+
 /*
 Challenge 3: Input alanına bir şeyler yazınca(input event):
 - Büyük harfe dönüştürsün
