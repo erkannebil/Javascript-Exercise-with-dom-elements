@@ -1,8 +1,8 @@
-# DOM II
+# DOM Events
 
 ## Proje Açıklaması
 
-Eğlence Otobüsü, sitelerini daha interaktif bir hale getirmenizi istiyor. Sitelerini geliştirmek için 10 benzersiz event eklemeniz konusunda size güveniyorlar. Kullanabileceğiniz birçok eventi şuradan keşfedin: [MDN events reference](https://developer.mozilla.org/en-US/docs/Web/Events).
+Siteyi daha interaktif bir hale getirmenizi istiyor. Sitelerini geliştirmek için 10 benzersiz event eklemeniz konusunda size güveniyorlar. Kullanabileceğiniz birçok eventi şuradan keşfedin: [MDN events reference](https://developer.mozilla.org/en-US/docs/Web/Events).
 
 
 ###  Farklı 10 event için listener oluşturun (etkinlik dinleyici, event dinleyici, event listener)
