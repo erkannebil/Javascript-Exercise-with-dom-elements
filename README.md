@@ -23,6 +23,21 @@ Siteyi daha interaktif bir hale getirmenizi istiyor. Sitelerini geliştirmek iç
 
 Not: Drag/drop diğerlerine göre biraz daha alengirli. Bu aslında tek bir tür event türü değil, birkaç farklı tür eventin bir arada çalışması gerekir.
 
+
+<img width="1408" alt="image" src="https://github.com/erkannebil/Javascript-Exercise-with-dom-elements/assets/80630016/a1369736-0edc-4e2d-81cb-0df9828b9c59">
+<img width="1208" alt="image" src="https://github.com/erkannebil/Javascript-Exercise-with-dom-elements/assets/80630016/b5747b77-66c3-42c1-bd85-288625afd58a">
+<img width="1147" alt="image" src="https://github.com/erkannebil/Javascript-Exercise-with-dom-elements/assets/80630016/8c19ecd9-b90d-4cc2-a465-70d17a6e146b">
+<img width="1082" alt="image" src="https://github.com/erkannebil/Javascript-Exercise-with-dom-elements/assets/80630016/1d2686b3-7021-4eb5-af1e-01de554cf367">
+<img width="1394" alt="image" src="https://github.com/erkannebil/Javascript-Exercise-with-dom-elements/assets/80630016/3bc878fb-880e-4537-addb-f4ca111b396f">
+
+
+
+
+
+
+
+
+
 ### preventDefault kullanın
 
 * [ ] preventDefault için bir kullanım alanı bulun. Örnek, bir a linkine tıklandığında gitmesi gereken link yerine başka tanımladığınız bir sayfaya gönderebilirsiniz.
